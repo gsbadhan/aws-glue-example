@@ -17,7 +17,6 @@
     "--enable-job-insights" : "true",
     "--enable-observability-metrics" : "true",
     "--enable-glue-datacatalog" : "true",
-    "--enable-continuous-cloudwatch-log" : "true",
     "--job-bookmark-option" : "job-bookmark-disable",
     "--job-language" : "python",
     "--TempDir" : "s3://aws-glue-assets-671457357165-ap-south-1/temporary/"
