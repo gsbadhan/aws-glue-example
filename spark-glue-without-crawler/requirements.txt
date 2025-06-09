@@ -1,0 +1,7 @@
+boto3
+pyspark
+pyarrow
+pandas
+openpyxl
+xmltodict
+awswrangler==3.9.1
